@@ -135,7 +135,8 @@
 
  - 후기 작성
  <img src="https://github.com/sj921/readme_images/blob/main/ezenmarket_images/%EC%B1%84%ED%8C%85_%ED%9B%84%EA%B8%B0.png?raw=true" width="900">
-
-
+ 
+> 알림
+ <img src="https://github.com/sj921/readme_images/blob/main/ezenmarket_images/%EC%95%8C%EB%A6%BC.png?raw=true" width="900">
 ---
 
